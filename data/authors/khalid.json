@@ -1,0 +1,10 @@
+{
+    "name": "خالد",
+    "image" : "ico.png",
+    "bio": "مهتم بالمصادر المفتوحة من برمجيات وتطبيقات",
+    "social": [
+        { "link": "https://kaleedtc.github.io" },
+        { "github": "https://github.com/kaleedtc" },
+        { "email": "mailto:khalid.pnadm@passinbox.com" }
+    ]
+}

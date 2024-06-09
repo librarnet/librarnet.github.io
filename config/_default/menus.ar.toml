@@ -1,0 +1,36 @@
+[[main]]
+name = "مقالات"
+pageRef = "posts"
+weight = 1
+
+[[main]]
+name = "وسوم"
+pageRef = "tags"
+weight = 2
+
+[[main]]
+name = "عن الموقع"
+pageRef = "about"
+weight = 3
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/librarnet"
+  weight = 4
+
+[[main]]
+  identifier = "telegram"
+  pre = "telegram"
+  url = "https://t.me/librarnet"
+  weight = 5
+
+[[footer]]
+name = "عن الكُتَّاب"
+pageRef = "authors"
+weight = 1
+
+[[footer]]
+name = "ساهم معنا"
+pageRef = "contribute"
+weight = 2

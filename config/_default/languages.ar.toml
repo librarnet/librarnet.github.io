@@ -1,0 +1,19 @@
+languageCode = "ar"
+languageName = "العربية"
+weight = 1
+title = "عالم البرمجيات الحرة"
+
+[params]
+displayName = "AR"
+isoCode = "ar"
+rtl = true
+dateFormat = "2 January 2006"
+logo = "librar-logo-ico.webp"
+description = "موقع يهتم بنشر مواضيع حول التقنيات الحرة والمفتوحة المصدر من برمجيات وتطبيقات."
+
+[author]
+name = "عالم البرمجيات الحرة"
+image = "librar-logo-ico.webp"
+headline = "موقع يهتم بنشر مواضيع حول التقنيات الحرة والمفتوحة المصدر من برمجيات وتطبيقات"
+links = [ { github = "https://github.com/librarnet" }, { telegram = "https://t.me/librarnet" }, { email = "mailto:librarnet@proton.me" }, { rss = "" } ]
+bio = ""
