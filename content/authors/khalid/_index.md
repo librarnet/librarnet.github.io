@@ -9,11 +9,11 @@ title: "خالد"
     <div class="text-sm text-neutral-700 dark:text-neutral-400">مهتم بالمصادر المفتوحة من برمجيات وتطبيقات</div>
     <div class="text-2xl sm:text-lg">
       <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
-        <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="" target="_blank"
+        <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="https://github.com/kaleedtc" target="_blank"
           aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{< icon "github" >}}</a>
-        <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="" target="_blank"
+        <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="mailto:khalid.pnadm@passinbox.com" target="_blank"
           aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{< icon "email" >}}</a>
-        <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="" target="_blank"
+        <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="https://kaleedtc.github.io" target="_blank"
           aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{< icon "link" >}}</a>
       </div>
     </div>
