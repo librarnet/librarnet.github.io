@@ -1,0 +1,76 @@
+global:
+  language: "AR"
+
+article:
+  anchor_label: "رابط"
+  date: "{{ .Date }}"
+  date_updated: "آخر تحديث: {{ .Date }}"
+  draft: "مسودة"
+  edit_title: "تعديل المحتوى"
+  reading_time:
+    one: "{{ .Count }} دقيقة قراءة"
+    other: "{{ .Count }} دقيقة/دقائق قراءة"
+  reading_time_title: "مدة القراءة"
+  table_of_contents: "محتوى المقال"
+  word_count:
+    one: "{{ .Count }} كلمة"
+    other: "{{ .Count }} كلمة"
+  views:
+    one: "{{ .Count }} مشاهدة"
+    other: "{{ .Count }} مشاهدات"
+  likes:
+    one: "{{ .Count }} إعجاب"
+    other: "{{ .Count }} إعجابات"
+  part_of_series: "هذا المقال جزء من سلسلة."
+  part: "جزء"
+  this_article: "هذه المقالة"
+
+author:
+  byline_title: "الناشر"
+
+code:
+  copy: "نسخ"
+  copied: "تم النسخ"
+
+error:
+  404_title: "هذه الصفحة غير موجودة :confused:"
+  404_error: "خطأ 404"
+  404_description: "يبدو أن الصفحة التي طلبتها غير موجودة."
+
+footer:
+  dark_appearance: "التحويل الى المظهر الداكن"
+  light_appearance: "التحويل الى المظهر الفاتح"
+  powered_by: "Powered by {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "ارتباط بموقع خارجي"
+  no_articles: "لا توجد مقالات لسردها هنا حتى الآن."
+
+nav:
+  scroll_to_top_title: "انتقل إلى أعلى"
+  skip_to_main: "التخطى الى المحتوى الأساسى"
+
+search:
+  open_button_title: "البحث (/)"
+  close_button_title: "إقفل (Esc)"
+  input_placeholder: "إبحث"
+
+sharing:
+  email: "إرسال عبر البريد الإلكترونى"
+  facebook: "شارك على facebook"
+  linkedin: "شارك على linkedin"
+  pinterest: "شارك على pinterest"
+  reddit: "شارك على reddit"
+  twitter: "شارك على twitter"
+  whatsapp: "شارك على whatsapp"
+  telegram: "شارك على telegram"
+
+shortcode:
+  recent_articles: "تم النشر مؤخرا"
+
+recent:
+  show_more: "قراءة المزيد"
+  
+article.related_articles: "قد يهمك أيضا"
+
+article.sharingLinks: "شارك المقال على منصات التواصل"
