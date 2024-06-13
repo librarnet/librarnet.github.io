@@ -5,7 +5,7 @@ paginate = 10
 summaryLength = 0
 buildDrafts = false
 buildFuture = false
-baseURL = "https://librarnet.github.io"
+baseURL = "https://librar.net"
 
 [imaging]
 anchor = "Center"
