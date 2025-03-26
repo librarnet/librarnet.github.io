@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>خالد on عالم البرمجيات الحرة</title>
+    <link>http://localhost:1313/authors/khalid/</link>
+    <description>Recent content in خالد on عالم البرمجيات الحرة</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <copyright>© 2025 عالم البرمجيات الحرة</copyright>
+    <lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/khalid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>متجر Neo Store: تجربة استخدام عصرية أفضل من F-Droid </title>
+      <link>http://localhost:1313/neo-store/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/neo-store/</guid>
+      <description>إذا كنت تعتقد بأن واجهة متجر F-Droid بسيطة وتفتقد للميزات المتقدمة، فموضوع اليوم قد يهمك وسيأخذك في جولة سريعة للتعرف على متجر Neo Store المفتوح المصدر لنظام أندرويد والذي هو عبارة عن واجهة حديثة بميزات إضافية لمتجر إف-درويد.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/neo-store/thumbnail.webp" />
+    </item>
+    
+    <item>
+      <title>محرر الأكواد VSCodium: برمجية حرة المصدر ودون تتبع </title>
+      <link>http://localhost:1313/vscodium/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vscodium/</guid>
+      <description>في حال كنت مبرمجا أو مهتما بالتطوير وتُفضل الحلول المفتوحة المصدر ، اسمح لي أن أقدم لك محرر الأكواد vscodium الحر المصدر والذي يأتي دون أكواد تتبع ويقدم لك ميزات ودعم مجتمعي كبير ، إضافة إلى أنه متوفر لأنظمة التشغيل المعروفة والتي يأتي في مقدمتها لينكس بالطبع.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/vscodium/thumbnail.webp" />
+    </item>
+    
+    <item>
+      <title>تطبيق RethinkDNS: جدار حماية مع DNS مخصص ومانع إعلانات</title>
+      <link>http://localhost:1313/rethinkdns-app/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rethinkdns-app/</guid>
+      <description>إذا كنت مستخدما لنظام أندرويد وتبحث عن تطبيق يوفر لك جدار حماية مع DNS مخصص ومانع إعلانات فسيكون تطبيق RethinkDNS المجاني والمفتوح المصدر الأداة المناسبة لذلك وقد يوفر عليك عناء تثبيت عدة تطبيقات على هاتفك.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rethinkdns-app/thumbnail.webp" />
+    </item>
+    
+    <item>
+      <title>أداة لإدارة نظام ملفات BTRFS بواجهة رسومية على لينكس!</title>
+      <link>http://localhost:1313/btrfs-assistant/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/btrfs-assistant/</guid>
+      <description>إذا كنت تبحث عن أداة لإدارة نظام ملفات BTRFS ومن ناحية أخرى تُفضل أن تكون بواجهة رسومية على لينكس بدلا من التعامل مع سطر الأوامر، فستتعرف معي في هذا المقال على أداة Btrfs Assistant التي تأتي مع العديد من الميزات وبالتالي تُسهل عليك التعامل مع نظام ملفات BTRFS.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/btrfs-assistant/thumbnail.webp" />
+    </item>
+    
+    <item>
+      <title>صدور Fedora 37: ما الجديد وكيفية الترقية؟</title>
+      <link>http://localhost:1313/fedora-37-released/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fedora-37-released/</guid>
+      <description>تم صدور Fedora 37 مع تحديثات عديدة مختلفة عن الإصدار السابق، وكما هو معلوم يهدف فريق تطوير فيدورا إلى توفير توزيعة آمنة ومستقرة للمستخدم النهائي تكون خالية من المشاكل قدر الإمكان.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/fedora-37-released/thumbnail.webp" />
+    </item>
+    
+    <item>
+      <title>تثبيت تطبيقات Flatpak على Ubuntu وما بُني عليها:دليل مبسط</title>
+      <link>http://localhost:1313/install-flatpak-apps-ubuntu-linux/</link>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/install-flatpak-apps-ubuntu-linux/</guid>
+      <description>في مقال سابق شرحنا طريقة تثبيت Flatpak على Ubuntu والآن في هذا الدليل المبسط سنشرح بشيء من التفصيل طريقة تثبيت تطبيقات فلات باك على Ubuntu والتوزيعات المبنية عليها.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/install-flatpak-apps-ubuntu-linux/thumbnail.webp" />
+    </item>
+    
+    <item>
+      <title>تحزيم فلاتباك: لمحة عنه وطريقة تثبيته على Ubuntu</title>
+      <link>http://localhost:1313/how-to-install-flatpak-on-ubuntu/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/how-to-install-flatpak-on-ubuntu/</guid>
+      <description>دليل مبسط يشرح كيفية تثبيت Flatpak على توزيعة Ubuntu وتحديدا الإصدار رقم 22.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/how-to-install-flatpak-on-ubuntu/thumbnail.webp" />
+    </item>
+    
+  </channel>
+</rss>

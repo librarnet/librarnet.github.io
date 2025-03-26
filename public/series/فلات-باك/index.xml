@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>فلات باك on عالم البرمجيات الحرة</title>
+    <link>http://localhost:1313/series/%D9%81%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D9%83/</link>
+    <description>Recent content in فلات باك on عالم البرمجيات الحرة</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <copyright>© 2025 عالم البرمجيات الحرة</copyright>
+    <lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/%D9%81%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D9%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>تثبيت تطبيقات Flatpak على Ubuntu وما بُني عليها:دليل مبسط</title>
+      <link>http://localhost:1313/install-flatpak-apps-ubuntu-linux/</link>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/install-flatpak-apps-ubuntu-linux/</guid>
+      <description>في مقال سابق شرحنا طريقة تثبيت Flatpak على Ubuntu والآن في هذا الدليل المبسط سنشرح بشيء من التفصيل طريقة تثبيت تطبيقات فلات باك على Ubuntu والتوزيعات المبنية عليها.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/install-flatpak-apps-ubuntu-linux/thumbnail.webp" />
+    </item>
+    
+    <item>
+      <title>تحزيم فلاتباك: لمحة عنه وطريقة تثبيته على Ubuntu</title>
+      <link>http://localhost:1313/how-to-install-flatpak-on-ubuntu/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/how-to-install-flatpak-on-ubuntu/</guid>
+      <description>دليل مبسط يشرح كيفية تثبيت Flatpak على توزيعة Ubuntu وتحديدا الإصدار رقم 22.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/how-to-install-flatpak-on-ubuntu/thumbnail.webp" />
+    </item>
+    
+  </channel>
+</rss>

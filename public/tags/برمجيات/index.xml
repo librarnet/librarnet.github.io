@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>برمجيات on عالم البرمجيات الحرة</title>
+    <link>http://localhost:1313/tags/%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA/</link>
+    <description>Recent content in برمجيات on عالم البرمجيات الحرة</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <copyright>© 2025 عالم البرمجيات الحرة</copyright>
+    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>محرر الأكواد VSCodium: برمجية حرة المصدر ودون تتبع </title>
+      <link>http://localhost:1313/vscodium/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/vscodium/</guid>
+      <description>في حال كنت مبرمجا أو مهتما بالتطوير وتُفضل الحلول المفتوحة المصدر ، اسمح لي أن أقدم لك محرر الأكواد vscodium الحر المصدر والذي يأتي دون أكواد تتبع ويقدم لك ميزات ودعم مجتمعي كبير ، إضافة إلى أنه متوفر لأنظمة التشغيل المعروفة والتي يأتي في مقدمتها لينكس بالطبع.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/vscodium/thumbnail.webp" />
+    </item>
+    
+    <item>
+      <title>أداة لإدارة نظام ملفات BTRFS بواجهة رسومية على لينكس!</title>
+      <link>http://localhost:1313/btrfs-assistant/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/btrfs-assistant/</guid>
+      <description>إذا كنت تبحث عن أداة لإدارة نظام ملفات BTRFS ومن ناحية أخرى تُفضل أن تكون بواجهة رسومية على لينكس بدلا من التعامل مع سطر الأوامر، فستتعرف معي في هذا المقال على أداة Btrfs Assistant التي تأتي مع العديد من الميزات وبالتالي تُسهل عليك التعامل مع نظام ملفات BTRFS.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/btrfs-assistant/thumbnail.webp" />
+    </item>
+    
+  </channel>
+</rss>

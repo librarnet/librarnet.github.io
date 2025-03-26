@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>تطبيقات on عالم البرمجيات الحرة</title>
+    <link>http://localhost:1313/tags/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA/</link>
+    <description>Recent content in تطبيقات on عالم البرمجيات الحرة</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <copyright>© 2025 عالم البرمجيات الحرة</copyright>
+    <lastBuildDate>Fri, 07 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>متجر Neo Store: تجربة استخدام عصرية أفضل من F-Droid </title>
+      <link>http://localhost:1313/neo-store/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/neo-store/</guid>
+      <description>إذا كنت تعتقد بأن واجهة متجر F-Droid بسيطة وتفتقد للميزات المتقدمة، فموضوع اليوم قد يهمك وسيأخذك في جولة سريعة للتعرف على متجر Neo Store المفتوح المصدر لنظام أندرويد والذي هو عبارة عن واجهة حديثة بميزات إضافية لمتجر إف-درويد.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/neo-store/thumbnail.webp" />
+    </item>
+    
+    <item>
+      <title>تطبيق RethinkDNS: جدار حماية مع DNS مخصص ومانع إعلانات</title>
+      <link>http://localhost:1313/rethinkdns-app/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rethinkdns-app/</guid>
+      <description>إذا كنت مستخدما لنظام أندرويد وتبحث عن تطبيق يوفر لك جدار حماية مع DNS مخصص ومانع إعلانات فسيكون تطبيق RethinkDNS المجاني والمفتوح المصدر الأداة المناسبة لذلك وقد يوفر عليك عناء تثبيت عدة تطبيقات على هاتفك.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/rethinkdns-app/thumbnail.webp" />
+    </item>
+    
+  </channel>
+</rss>
