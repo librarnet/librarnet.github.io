@@ -1,0 +1,6 @@
+/public/
+/resources/
+/scripts/
+/.hugo_build.lock
+/.blowfish-version
+/.hugo-version

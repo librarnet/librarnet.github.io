@@ -1,11 +1,14 @@
 theme = "blowfish"
 defaultContentLanguage = "ar"
 enableRobotsTXT = true
-paginate = 10
+enableEmoji = true
 summaryLength = 0
 buildDrafts = false
 buildFuture = false
 baseURL = "https://librar.net"
+
+[pagination]
+pagerSize = 10
 
 [imaging]
 anchor = "Center"
