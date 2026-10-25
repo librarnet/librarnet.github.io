@@ -16,5 +16,5 @@ description = "موقع يهتم بنشر مواضيع حول التقنيات �
 name = "عالم البرمجيات الحرة"
 image = "librar-logo-ico.webp"
 headline = "موقع يهتم بنشر مواضيع حول التقنيات الحرة والمفتوحة المصدر من برمجيات وتطبيقات"
-links = [ { github = "https://github.com/librarnet" }, { telegram = "https://t.me/librarnet" }, { email = "mailto:librarnet@proton.me" }, { rss = "https://librar.net/index.xml" } ]
+links = [ { facebook = "https://www.facebook.com/librarnet" }, { telegram = "https://t.me/librarnet" }, { github = "https://github.com/librarnet" }, { email = "mailto:librarnet@proton.me" }, { rss = "https://librar.net/index.xml" } ]
 bio = ""

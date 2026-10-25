@@ -24,6 +24,12 @@ weight = 3
   pre = "telegram"
   url = "https://t.me/librarnet"
   weight = 5
+  
+[[main]]
+  identifier = "facebook"
+  pre = "facebook"
+  url = "https://www.facebook.com/librarnet"
+  weight = 6
 
 [[footer]]
 name = "عن الكُتَّاب"
