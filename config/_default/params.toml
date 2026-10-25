@@ -101,6 +101,13 @@ groupByYear = false
 cardView = true
 cardViewScreenWidth = false
 
+[kofi]
+identifier = "librar"
+globalWidget = true
+globalWidgetText = ""
+globalWidgetBackgroundColor = "#FF5E5B"
+globalWidgetTextColor = "#FFFFFF"
+
 [firebase]
 
 [fathomAnalytics]
