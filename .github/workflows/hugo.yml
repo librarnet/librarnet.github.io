@@ -30,24 +30,14 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: "0.167.0"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Read pinned versions
-        id: versions
-        run: |
-          echo "hugo=$(cat .hugo-version)" >> "$GITHUB_OUTPUT"
-          echo "blowfish=$(cat .blowfish-version)" >> "$GITHUB_OUTPUT"
-      - name: Checkout pinned Blowfish release
-        uses: actions/checkout@v4
         with:
-          repository: nunocoracao/blowfish
-          ref: ${{ steps.versions.outputs.blowfish }}
-          path: themes/blowfish
-          persist-credentials: false
+          submodules: recursive
       - name: Install Hugo CLI
-        env:
-          HUGO_VERSION: ${{ steps.versions.outputs.hugo }}
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb

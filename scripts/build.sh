@@ -5,8 +5,8 @@ project_dir="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$project_dir"
 
 hugo_bin="${HUGO_BIN:-hugo}"
-expected_hugo="$(cat .hugo-version)"
-expected_theme="$(cat .blowfish-version)"
+expected_hugo="${HUGO_VERSION:-0.167.0}"
+expected_theme="$(git rev-parse HEAD:themes/blowfish)"
 actual_hugo="$("$hugo_bin" version)"
 if [[ "$actual_hugo" != "hugo v${expected_hugo}"[+-]*extended* ]]; then
   printf 'Use Hugo Extended %s (found: %s). Set HUGO_BIN to its executable if needed.\n' "$expected_hugo" "$actual_hugo" >&2
@@ -20,7 +20,7 @@ if [[ ! -e themes/blowfish/.git ]]; then
 fi
 actual_theme="$(git -C themes/blowfish rev-parse HEAD)"
 if [[ "$actual_theme" != "$expected_theme" ]]; then
-  printf 'Blowfish revision differs from .blowfish-version; see README.md.\n' >&2
+  printf 'Blowfish checkout differs from the recorded submodule commit.\n' >&2
   exit 1
 fi
 if [[ -n "$(git -C themes/blowfish status --porcelain)" ]]; then
