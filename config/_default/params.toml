@@ -8,7 +8,7 @@ disableImageOptimization = false
 disableTextInHeader = true
 highlightCurrentMenuArea = true
 smartTOC = true
-smartTOCHideUnfocusedChildren = false
+smartTOCHideUnfocusedChildren = true
 
 [header]
 layout = "fixed"
@@ -23,7 +23,7 @@ showScrollToTop = true
 [homepage]
 layout = "profile"
 showRecent = true
-showRecentItems = 7
+showRecentItems = 9
 showMoreLink = true
 showMoreLinkDest = "/posts/"
 cardView = true
